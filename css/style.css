@@ -1,0 +1,15 @@
+.container {
+    background-color: yellow;
+    width: 600px;
+    border: 2px solid black;
+}
+.picture {
+    width: 590px;
+    display: block;
+    margin: 5px auto;
+}
+p {
+    text-align: justify;
+    margin: 5px;
+    color: blue;
+}
